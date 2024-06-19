@@ -1,0 +1,14 @@
+# Ignore images
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.bmp
+*.tiff
+
+# Ignore large binaries
+*.exe
+*.dll
+*.iso
+*.bin
+*.tar.gz
