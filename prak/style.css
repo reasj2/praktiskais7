@@ -4,6 +4,11 @@
     padding: 0;
 }
 
+body {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+}
+
 .gallery {
     display: flex;
     flex-wrap: wrap;
